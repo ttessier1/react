@@ -1,1 +1,3 @@
 node_modules/*
+basereact/node_modules/*
+basereact/.parcel-cache/*
