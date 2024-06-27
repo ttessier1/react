@@ -1,4 +1,4 @@
-@echo off
+echo off
 REM adjust to your environment
 
 IF EXIST "c:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\NodeJs\" set NPM=c:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\NodeJs\npm.exe

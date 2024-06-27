@@ -1,4 +1,4 @@
-@echo off
+echo off
 REM adjust to your environment
 
 IF EXIST "c:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\NodeJs\" set NODE="c:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\NodeJs\node.exe"
@@ -19,7 +19,7 @@ echo Created %1 environment
 pushd "%1"
 
 
-rmdir /s /q node_modules
+IF EXIST node_modules rmdir /s /q node_modules
 CALL %NPM% link ..
 
 call %NPM% run dev
