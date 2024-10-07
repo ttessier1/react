@@ -48,27 +48,35 @@ This is a problem solving tutorial to fix a clock: The clock time should display
 <a href="https://www.swhistlesoft.com/demo/react/tutorial7b/" title="https://www.swhistlesoft.com/demo/react/tutorial7b/">Tutorial 7b - https://www.swhistlesoft.com/demo/react/tutorial7b/</a>
 This tutorial is a bug fix for a react component. The corrected profile when collapsed and reopened does not change to the last person.: please see - https://react.dev/learn/keeping-components-pure
 </p>
-
-tutorial7c
+<p>
+<a href="https://www.swhistlesoft.com/demo/react/tutorial7c/" title="https://www.swhistlesoft.com/demo/react/tutorial7c/">Tutorial 7c - https://www.swhistlesoft.com/demo/react/tutorial7c/</a>
 This tutorial is a bug fix for a react component. The correction does not keep adding duplicate Create Story Tray item every few seconds: please see - https://react.dev/learn/keeping-components-pure
-
-tutorial8
+</p>
+<p>
+<a href="https://www.swhistlesoft.com/demo/react/tutorial8/" title="https://www.swhistlesoft.com/demo/react/tutorial8/">Tutorial 8 - https://www.swhistlesoft.com/demo/react/tutorial8/</a>
 This tutorial demonstrates UI Trees: please see - https://react.dev/learn/understanding-your-ui-as-a-tree
-
-tutorial9
+</p>
+<p>
+  <a href="https://www.swhistlesoft.com/demo/react/tutorial9/" title="https://www.swhistlesoft.com/demo/react/tutorial9/"Tutorial 9 - https://www.swhistlesoft.com/demo/react/tutorial9/</a>
 This tutorial demonstrates Responding to Events: please see - https://react.dev/learn/responding-to-events
-
-tutorial10
+</p>
+<p>
+<a href="https://www.swhistlesoft.com/demo/react/tutorial10/" title="https://www.swhistlesoft.com/demo/react/tutorial10/">Tutorial 10 - https://www.swhistlesoft.com/demo/react/tutorial10/</a>
 This tutorial demonstrates component state concepts: please see - https://react.dev/learn/state-a-components-memory
-
-tutorial11
+</p>
+<p>
+<a href="https://www.swhistlesoft.com/demo/react/tutorial11/" title="https://www.swhistlesoft.com/demo/react/tutorial11/">Tutorial 11 - https://www.swhistlesoft.com/demo/react/tutorial11/</a>
 This tutorial demonstrates additional component state concepts: please see - https://react.dev/learn/queueing-a-series-of-state-updates
-
-tutorial12
+</p>
+<p>
+<a href="https://www.swhistlesoft.com/demo/react/tutorial11/" title="https://www.swhistlesoft.com/demo/react/tutorial12/">Tutorial 12 - https://www.swhistlesoft.com/demo/react/tutorial12/</a>
 This tutorial demonstrates updating objects in state: please see - https://react.dev/learn/updating-objects-in-state
-
-tutorial13
+</p>
+<p>
+<a href="https://www.swhistlesoft.com/demo/react/tutorial13/" title="https://www.swhistlesoft.com/demo/react/tutorial13/">Tutorial 13 - https://www.swhistlesoft.com/demo/react/tutorial13/</a>
 This tutorial demonstrates component updating arrays in state: please see - https://react.dev/learn/updating-arrays-in-state
-
-tutorial14
+</p>
+<p>
+<a href="https://www.swhistlesoft.com/demo/react/tutorial14/" title="https://www.swhistlesoft.com/demo/react/tutorial14/">Tutorial 14 - https://www.swhistlesoft.com/demo/react/tutorial14/</a>
 This tutorial demonstrates managing state: please see - https://react.dev/learn/managing-state
+</p>
