@@ -2,11 +2,32 @@ This repository is a collection of tutorial completions done by yours truly to l
 
 The tutorials are from: https://react.dev/learn and the attempt was to as closely follow the order of the tutorials/lessons as possible.
 
-<b>Tutorial 1:</b>
-<p>Tutorial 1 is more or less a hello world of sorts which demonstrates the basics of how a react component is composed of html like syntax returned from a javascript component and consumed by react. This tutorial also demonstrates the face that a component can be repeated easily with markup.
+The tutoroials below make use of a tab component that shows the source code of the tutorial in some examples.
+The code uses the react-syntax-highlighter and prettier components
 
-A visible demonstration may be found at https://www.swhistlesoft.com/demo/demolist/react/tutorial1
-</p>
+These may be installed by using:
+
+npm install react-syntax-highlighter
+npm install pretty
+
+If you want to try these tutorials yourself they were started off using
+
+npx create-react-app <tutorial##>
+cd <tutorial##>
+
+where <tutorial##> is replaced with the literal "tutorial" and the number of the tutorial to create
+
+if you clone a portion of the repository ( for example tutorial1 ) which is possible
+
+First enable sparse checkout 
+
+git config core.sparseCheckout true
+
+Then do a partial clone with directory update
+
+git clone -n --depth=1 --filter=tree:0 https://github.com/ttessier1/react.git
+git sparse-checkout set --no-cone tutorial1
+git checkout
 
 Please see the list of tutorials below as found from: https://react.dev/learn. Descriptions to follow. The code below is available on github at: https://github.com/ttessier1/react. Later tutorials after tutorial7 also include full source code within the tutorial page.
 
